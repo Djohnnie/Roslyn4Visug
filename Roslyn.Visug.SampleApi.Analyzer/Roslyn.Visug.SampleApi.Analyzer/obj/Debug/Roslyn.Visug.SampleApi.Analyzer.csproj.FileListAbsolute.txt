@@ -1,0 +1,8 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\bin\Debug\Diagnostic.nuspec
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\bin\Debug\tools\install.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\bin\Debug\tools\uninstall.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\bin\Debug\Roslyn.Visug.SampleApi.Analyzer.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\bin\Debug\Roslyn.Visug.SampleApi.Analyzer.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\obj\Debug\Roslyn.Visug.SampleApi.Analyzer.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\obj\Debug\Roslyn.Visug.SampleApi.Analyzer.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\obj\Debug\Roslyn.Visug.SampleApi.Analyzer.pdb

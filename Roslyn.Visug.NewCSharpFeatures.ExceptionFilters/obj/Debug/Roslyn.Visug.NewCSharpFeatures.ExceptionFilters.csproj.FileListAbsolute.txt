@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\obj\Debug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\obj\Debug\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.pdb

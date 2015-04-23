@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Contract\bin\Release\Roslyn.Visug.Scripting.Expression.Wcf.Contract.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Contract\bin\Release\Roslyn.Visug.Scripting.Expression.Wcf.Contract.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Contract\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Contract.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Contract\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Contract.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Contract\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Contract.pdb

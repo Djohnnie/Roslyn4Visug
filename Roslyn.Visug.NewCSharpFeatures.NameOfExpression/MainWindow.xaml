@@ -1,0 +1,18 @@
+﻿<Window x:Class="Roslyn.Visug.NewCSharpFeatures.NameOfExpression.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Roslyn.Visug.NewCSharpFeatures.NameOfExpression"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+    <Grid>
+        <StackPanel>
+            <Button Command="{Binding SampleCommand}">Click me!</Button>
+            <TextBlock Text="{Binding Message}" />
+        </StackPanel>
+    </Grid>
+</Window>

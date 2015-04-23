@@ -1,0 +1,6 @@
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\Roslyn.Visug.DiagnosticWithCodeFix.Test.dll
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\extension.vsixmanifest
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\Diagnostic.nuspec
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\tools\install.ps1
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\tools\uninstall.ps1
+C:\Users\HooybJo\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\hooybjo\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\1.0\\Roslyn.Visug.DiagnosticWithCodeFix.Test.pdb

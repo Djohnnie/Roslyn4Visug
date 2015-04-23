@@ -1,0 +1,10 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\bin\Debug\Diagnostic.nuspec
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\bin\Debug\tools\install.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\bin\Debug\tools\uninstall.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.Resources.resources
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.csproj.GenerateResource.Cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.pdb

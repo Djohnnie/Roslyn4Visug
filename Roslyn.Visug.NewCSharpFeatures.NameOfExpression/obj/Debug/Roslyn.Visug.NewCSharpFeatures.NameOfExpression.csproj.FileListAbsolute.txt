@@ -1,0 +1,15 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\MainWindow.g.cs
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\App.g.cs
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression_MarkupCompile.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression_MarkupCompile.lref
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\MainWindow.baml
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.g.resources
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.Properties.Resources.resources
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.csproj.GenerateResource.Cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.pdb

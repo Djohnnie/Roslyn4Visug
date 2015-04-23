@@ -1,0 +1,468 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.PropertyInitializers", "Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.csproj", "{61CFA6C1-0A5C-49ED-8590-B9FD27858717}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. NewCSharpFeatures", "1. NewCSharpFeatures", "{A1586738-3D91-411B-ACCA-EFA6A6557EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.UsingStatic", "Roslyn.Visug.NewCSharpFeatures.UsingStatic\Roslyn.Visug.NewCSharpFeatures.UsingStatic.csproj", "{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.ExpressionBodies", "Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.csproj", "{04713CA1-AA21-4CAF-B594-722BA046EA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.NullConditional", "Roslyn.Visug.NewCSharpFeatures.NullConditional\Roslyn.Visug.NewCSharpFeatures.NullConditional.csproj", "{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.StringInterpolation", "Roslyn.Visug.NewCSharpFeatures.StringInterpolation\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.csproj", "{B9CA787E-03A2-406A-886E-94E8C8D53B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.ExceptionFilters", "Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.csproj", "{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.NameOfExpression", "Roslyn.Visug.NewCSharpFeatures.NameOfExpression\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.csproj", "{3F7817DC-6A4C-40E0-8C84-58A6B6353691}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Diagnostics and Code Fixes", "3. Diagnostics and Code Fixes", "{0DA7D2E8-7003-4424-BA41-5CFC8459168E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.DiagnosticWithCodeFix.If", "Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.csproj", "{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix", "Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix.csproj", "{7257428E-8ACF-452B-A997-2B5D0FDE76EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Scripting API", "5. Scripting API", "{DE599678-74CB-4D8E-9874-5E2496E04BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Demo", "Roslyn.Visug.Scripting.Demo\Roslyn.Visug.Scripting.Demo.csproj", "{582BE809-D447-4B1E-816E-F73679387423}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Analyzers and NuGet", "4. Analyzers and NuGet", "{A719DB89-2E58-4C41-8C86-5ADB71CC710C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Expression.Core", "Roslyn.Visug.Scripting.Expression.Core\Roslyn.Visug.Scripting.Expression.Core.csproj", "{60754E2F-437D-4C2B-8988-3CE56F922B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Expression.Test", "Roslyn.Visug.Scripting.Expression.Test\Roslyn.Visug.Scripting.Expression.Test.csproj", "{B417A489-679B-4417-B6F3-3353ADB17356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Expression.Wcf.Host", "Roslyn.Visug.Scripting.Expression.Wcf.Host\Roslyn.Visug.Scripting.Expression.Wcf.Host.csproj", "{4B06FE77-8E6C-435D-999C-9AE27BD833D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Expression.Wcf.Contract", "Roslyn.Visug.Scripting.Expression.Wcf.Contract\Roslyn.Visug.Scripting.Expression.Wcf.Contract.csproj", "{A8828CD4-028F-43E6-BA3F-853213D0D4ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Dependencies", "0. Dependencies", "{A8A3FFE5-562D-4F6C-A278-DF141BF9B504}"
+	ProjectSection(SolutionItems) = preProject
+		dependencies\Microsoft.CodeAnalysis.CSharp.Desktop.dll = dependencies\Microsoft.CodeAnalysis.CSharp.Desktop.dll
+		dependencies\Microsoft.CodeAnalysis.CSharp.dll = dependencies\Microsoft.CodeAnalysis.CSharp.dll
+		dependencies\Microsoft.CodeAnalysis.Desktop.dll = dependencies\Microsoft.CodeAnalysis.Desktop.dll
+		dependencies\Microsoft.CodeAnalysis.dll = dependencies\Microsoft.CodeAnalysis.dll
+		dependencies\Microsoft.CodeAnalysis.Scripting.CSharp.dll = dependencies\Microsoft.CodeAnalysis.Scripting.CSharp.dll
+		dependencies\Microsoft.CodeAnalysis.Scripting.dll = dependencies\Microsoft.CodeAnalysis.Scripting.dll
+		dependencies\Roslyn.Visug.snk = dependencies\Roslyn.Visug.snk
+		dependencies\System.Collections.Immutable.dll = dependencies\System.Collections.Immutable.dll
+		dependencies\System.Reflection.Metadata.dll = dependencies\System.Reflection.Metadata.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.Scripting.Expression.Wcf.Client", "Roslyn.Visug.Scripting.Expression.Wcf.Client\Roslyn.Visug.Scripting.Expression.Wcf.Client.csproj", "{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.IndexInitializers", "Roslyn.Visug.NewCSharpFeatures.IndexInitializers\Roslyn.Visug.NewCSharpFeatures.IndexInitializers.csproj", "{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Compiler API", "2. Compiler API", "{AA9A935E-91F4-4B06-9F2E-D042F63C9D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerAPI.SyntaxFactories", "Roslyn.Visug.CompilerAPI.SyntaxFactories\Roslyn.Visug.CompilerAPI.SyntaxFactories.csproj", "{C4AE692E-0801-43DD-BC81-1721688766AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal", "Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal\Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal.csproj", "{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerAPI.CompilationAPI", "Roslyn.Visug.CompilerAPI.CompilationAPI\Roslyn.Visug.CompilerAPI.CompilationAPI.csproj", "{164844A1-2EF9-45FA-AF30-F34E12E438A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.SampleApi", "Roslyn.Visug.SampleApi\Roslyn.Visug.SampleApi.csproj", "{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.SampleApi.Consumer", "Roslyn.Visug.SampleApi.Consumer\Roslyn.Visug.SampleApi.Consumer.csproj", "{3C47245C-F998-4BF8-B964-5A598C4525E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.SampleApi.Analyzer", "Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer\Roslyn.Visug.SampleApi.Analyzer.csproj", "{83A3CA69-7E99-409E-A05B-EA910FFB07D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. Tools", "9. Tools", "{80625FD9-9423-4CAD-A7D0-89F4E5CDD608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.DiagnosticWithCodeFix.Test", "Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.csproj", "{22689952-4D8C-4D7D-82D5-62ABF62B7566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix", "Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix.csproj", "{EB2C37B1-F561-4DBE-8221-CAC0001EE853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerApi.DataFlowAnalysis", "Roslyn.Visug.CompilerApi.DataFlowAnalysis\Roslyn.Visug.CompilerApi.DataFlowAnalysis.csproj", "{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerApi.SymbolBinding", "Roslyn.Visug.CompilerApi.SymbolBinding\Roslyn.Visug.CompilerApi.SymbolBinding.csproj", "{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerApi.ControlFlowAnalysis", "Roslyn.Visug.CompilerApi.ControlFlowAnalysis\Roslyn.Visug.CompilerApi.ControlFlowAnalysis.csproj", "{901CC578-42AD-4CC6-BA57-612093CD33E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment", "Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment\Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment.csproj", "{19B713CB-69C8-43DF-9B07-45B1CAA99A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Visug.CompilerApi.SymbolConstantValue", "Roslyn.Visug.CompilerApi.SymbolConstantValue\Roslyn.Visug.CompilerApi.SymbolConstantValue.csproj", "{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Debug|x86.Build.0 = Debug|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Release|x86.ActiveCfg = Release|Any CPU
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717}.Release|x86.Build.0 = Release|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Debug|x86.Build.0 = Debug|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Release|x86.ActiveCfg = Release|Any CPU
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C}.Release|x86.Build.0 = Release|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Debug|x86.Build.0 = Debug|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Release|x86.ActiveCfg = Release|Any CPU
+		{04713CA1-AA21-4CAF-B594-722BA046EA88}.Release|x86.Build.0 = Release|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1}.Release|x86.Build.0 = Release|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47}.Release|x86.Build.0 = Release|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Debug|x86.Build.0 = Debug|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB}.Release|x86.Build.0 = Release|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Debug|x86.Build.0 = Debug|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691}.Release|x86.Build.0 = Release|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8}.Release|x86.Build.0 = Release|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC}.Release|x86.Build.0 = Release|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Debug|x86.Build.0 = Debug|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Release|x86.ActiveCfg = Release|Any CPU
+		{582BE809-D447-4B1E-816E-F73679387423}.Release|x86.Build.0 = Release|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Debug|x86.Build.0 = Debug|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Release|x86.ActiveCfg = Release|Any CPU
+		{60754E2F-437D-4C2B-8988-3CE56F922B69}.Release|x86.Build.0 = Release|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Debug|x86.Build.0 = Debug|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Release|x86.ActiveCfg = Release|Any CPU
+		{B417A489-679B-4417-B6F3-3353ADB17356}.Release|x86.Build.0 = Release|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3}.Release|x86.Build.0 = Release|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Debug|x86.Build.0 = Debug|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED}.Release|x86.Build.0 = Release|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B}.Release|x86.Build.0 = Release|Any CPU
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Debug|x86.ActiveCfg = Debug|x86
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Debug|x86.Build.0 = Debug|x86
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Release|Any CPU.ActiveCfg = Release|x86
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Release|x86.ActiveCfg = Release|x86
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0}.Release|x86.Build.0 = Release|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Debug|x86.ActiveCfg = Debug|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Debug|x86.Build.0 = Debug|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Release|Any CPU.ActiveCfg = Release|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Release|x86.ActiveCfg = Release|x86
+		{C4AE692E-0801-43DD-BC81-1721688766AD}.Release|x86.Build.0 = Release|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Debug|x86.ActiveCfg = Debug|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Debug|x86.Build.0 = Debug|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Release|Any CPU.ActiveCfg = Release|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Release|x86.ActiveCfg = Release|x86
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A}.Release|x86.Build.0 = Release|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Debug|x86.ActiveCfg = Debug|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Debug|x86.Build.0 = Debug|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Release|Any CPU.ActiveCfg = Release|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Release|x86.ActiveCfg = Release|x86
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0}.Release|x86.Build.0 = Release|x86
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Debug|x86.Build.0 = Debug|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Release|x86.ActiveCfg = Release|Any CPU
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B}.Release|x86.Build.0 = Release|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Debug|x86.Build.0 = Debug|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Release|x86.ActiveCfg = Release|Any CPU
+		{3C47245C-F998-4BF8-B964-5A598C4525E9}.Release|x86.Build.0 = Release|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Debug|x86.Build.0 = Debug|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4}.Release|x86.Build.0 = Release|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Debug|x86.Build.0 = Debug|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Release|x86.ActiveCfg = Release|Any CPU
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566}.Release|x86.Build.0 = Release|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Debug|x86.Build.0 = Debug|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853}.Release|x86.Build.0 = Release|Any CPU
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Debug|x86.ActiveCfg = Debug|x86
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Debug|x86.Build.0 = Debug|x86
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Release|Any CPU.ActiveCfg = Release|x86
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Release|x86.ActiveCfg = Release|x86
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725}.Release|x86.Build.0 = Release|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Debug|x86.ActiveCfg = Debug|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Debug|x86.Build.0 = Debug|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Release|Any CPU.ActiveCfg = Release|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Release|x86.ActiveCfg = Release|x86
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC}.Release|x86.Build.0 = Release|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Debug|x86.ActiveCfg = Debug|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Debug|x86.Build.0 = Debug|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Release|Any CPU.ActiveCfg = Release|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Release|x86.ActiveCfg = Release|x86
+		{901CC578-42AD-4CC6-BA57-612093CD33E6}.Release|x86.Build.0 = Release|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Debug|x86.ActiveCfg = Debug|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Debug|x86.Build.0 = Debug|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Release|Any CPU.ActiveCfg = Release|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Release|x86.ActiveCfg = Release|x86
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55}.Release|x86.Build.0 = Release|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Debug|x86.ActiveCfg = Debug|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Debug|x86.Build.0 = Debug|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Release|Any CPU.ActiveCfg = Release|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Release|x86.ActiveCfg = Release|x86
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61CFA6C1-0A5C-49ED-8590-B9FD27858717} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{8B8F0F2D-2D44-4D5F-A3E1-15969537848C} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{04713CA1-AA21-4CAF-B594-722BA046EA88} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{FD90EF1A-1286-450D-ABAA-D9BF53984AD1} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{B9CA787E-03A2-406A-886E-94E8C8D53B47} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{78E89A39-DB8A-4835-A03E-74E9CD50A9DB} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{3F7817DC-6A4C-40E0-8C84-58A6B6353691} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{41E63D0D-E86F-45FC-B5DE-3C43B83AD5D8} = {0DA7D2E8-7003-4424-BA41-5CFC8459168E}
+		{7257428E-8ACF-452B-A997-2B5D0FDE76EC} = {0DA7D2E8-7003-4424-BA41-5CFC8459168E}
+		{582BE809-D447-4B1E-816E-F73679387423} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{60754E2F-437D-4C2B-8988-3CE56F922B69} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{B417A489-679B-4417-B6F3-3353ADB17356} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{4B06FE77-8E6C-435D-999C-9AE27BD833D3} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{A8828CD4-028F-43E6-BA3F-853213D0D4ED} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{F3AD7302-62DA-4D3B-8CEA-9AEFD97A360B} = {DE599678-74CB-4D8E-9874-5E2496E04BD9}
+		{9F96DD68-7D95-43C4-99D9-FC390F0F70C0} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{C4AE692E-0801-43DD-BC81-1721688766AD} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{D51B8467-6E25-4BC3-B0B5-77DAFE191C0A} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{164844A1-2EF9-45FA-AF30-F34E12E438A0} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{0FAFA5E8-B12E-413C-915E-4A8A64D5973B} = {A719DB89-2E58-4C41-8C86-5ADB71CC710C}
+		{3C47245C-F998-4BF8-B964-5A598C4525E9} = {A719DB89-2E58-4C41-8C86-5ADB71CC710C}
+		{83A3CA69-7E99-409E-A05B-EA910FFB07D4} = {A719DB89-2E58-4C41-8C86-5ADB71CC710C}
+		{22689952-4D8C-4D7D-82D5-62ABF62B7566} = {0DA7D2E8-7003-4424-BA41-5CFC8459168E}
+		{EB2C37B1-F561-4DBE-8221-CAC0001EE853} = {0DA7D2E8-7003-4424-BA41-5CFC8459168E}
+		{6FE6AB97-F3CF-40D5-A149-E3DC92A55725} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{32C7DE4F-D83B-4E0F-9032-9E6F39CFB2DC} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{901CC578-42AD-4CC6-BA57-612093CD33E6} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+		{19B713CB-69C8-43DF-9B07-45B1CAA99A55} = {A1586738-3D91-411B-ACCA-EFA6A6557EC3}
+		{13AABD89-3604-4C8B-AB29-B3AFD63FAAD3} = {AA9A935E-91F4-4B06-9F2E-D042F63C9D09}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 30
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://djohnnie.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Roslyn.Visug.DiagnosticWithCodeFix.If\\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix.csproj
+		SccProjectTopLevelParentUniqueName1 = Roslyn.Visug.sln
+		SccProjectName1 = Roslyn.Visug.DiagnosticWithCodeFix.If/Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix
+		SccLocalPath1 = Roslyn.Visug.DiagnosticWithCodeFix.If\\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix
+		SccProjectUniqueName2 = Roslyn.Visug.DiagnosticWithCodeFix.If\\Roslyn.Visug.DiagnosticWithCodeFix.If\\Roslyn.Visug.DiagnosticWithCodeFix.If.csproj
+		SccProjectTopLevelParentUniqueName2 = Roslyn.Visug.sln
+		SccProjectName2 = Roslyn.Visug.DiagnosticWithCodeFix.If/Roslyn.Visug.DiagnosticWithCodeFix.If
+		SccLocalPath2 = Roslyn.Visug.DiagnosticWithCodeFix.If\\Roslyn.Visug.DiagnosticWithCodeFix.If
+		SccProjectUniqueName3 = Roslyn.Visug.NewCSharpFeatures.ExceptionFilters\\Roslyn.Visug.NewCSharpFeatures.ExceptionFilters.csproj
+		SccProjectTopLevelParentUniqueName3 = Roslyn.Visug.sln
+		SccProjectName3 = Roslyn.Visug.NewCSharpFeatures.ExceptionFilters
+		SccLocalPath3 = Roslyn.Visug.NewCSharpFeatures.ExceptionFilters
+		SccProjectUniqueName4 = Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.csproj
+		SccProjectTopLevelParentUniqueName4 = Roslyn.Visug.sln
+		SccProjectName4 = Roslyn.Visug.NewCSharpFeatures.ExpressionBodies
+		SccLocalPath4 = Roslyn.Visug.NewCSharpFeatures.ExpressionBodies
+		SccProjectUniqueName5 = Roslyn.Visug.NewCSharpFeatures.NameOfExpression\\Roslyn.Visug.NewCSharpFeatures.NameOfExpression.csproj
+		SccProjectTopLevelParentUniqueName5 = Roslyn.Visug.sln
+		SccProjectName5 = Roslyn.Visug.NewCSharpFeatures.NameOfExpression
+		SccLocalPath5 = Roslyn.Visug.NewCSharpFeatures.NameOfExpression
+		SccProjectUniqueName6 = Roslyn.Visug.NewCSharpFeatures.NullConditional\\Roslyn.Visug.NewCSharpFeatures.NullConditional.csproj
+		SccProjectTopLevelParentUniqueName6 = Roslyn.Visug.sln
+		SccProjectName6 = Roslyn.Visug.NewCSharpFeatures.NullConditional
+		SccLocalPath6 = Roslyn.Visug.NewCSharpFeatures.NullConditional
+		SccProjectUniqueName7 = Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.csproj
+		SccProjectTopLevelParentUniqueName7 = Roslyn.Visug.sln
+		SccProjectName7 = Roslyn.Visug.NewCSharpFeatures.PropertyInitializers
+		SccLocalPath7 = Roslyn.Visug.NewCSharpFeatures.PropertyInitializers
+		SccProjectUniqueName8 = Roslyn.Visug.NewCSharpFeatures.StringInterpolation\\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.csproj
+		SccProjectTopLevelParentUniqueName8 = Roslyn.Visug.sln
+		SccProjectName8 = Roslyn.Visug.NewCSharpFeatures.StringInterpolation
+		SccLocalPath8 = Roslyn.Visug.NewCSharpFeatures.StringInterpolation
+		SccProjectUniqueName9 = Roslyn.Visug.NewCSharpFeatures.UsingStatic\\Roslyn.Visug.NewCSharpFeatures.UsingStatic.csproj
+		SccProjectTopLevelParentUniqueName9 = Roslyn.Visug.sln
+		SccProjectName9 = Roslyn.Visug.NewCSharpFeatures.UsingStatic
+		SccLocalPath9 = Roslyn.Visug.NewCSharpFeatures.UsingStatic
+		SccProjectUniqueName10 = Roslyn.Visug.Scripting.Demo\\Roslyn.Visug.Scripting.Demo.csproj
+		SccProjectTopLevelParentUniqueName10 = Roslyn.Visug.sln
+		SccProjectName10 = Roslyn.Visug.Scripting.Demo
+		SccLocalPath10 = Roslyn.Visug.Scripting.Demo
+		SccProjectUniqueName11 = Roslyn.Visug.Scripting.Expression.Core\\Roslyn.Visug.Scripting.Expression.Core.csproj
+		SccProjectTopLevelParentUniqueName11 = Roslyn.Visug.sln
+		SccProjectName11 = Roslyn.Visug.Scripting.Expression.Core
+		SccLocalPath11 = Roslyn.Visug.Scripting.Expression.Core
+		SccProjectUniqueName12 = Roslyn.Visug.Scripting.Expression.Test\\Roslyn.Visug.Scripting.Expression.Test.csproj
+		SccProjectTopLevelParentUniqueName12 = Roslyn.Visug.sln
+		SccProjectName12 = Roslyn.Visug.Scripting.Expression.Test
+		SccLocalPath12 = Roslyn.Visug.Scripting.Expression.Test
+		SccProjectUniqueName13 = Roslyn.Visug.Scripting.Expression.Wcf.Host\\Roslyn.Visug.Scripting.Expression.Wcf.Host.csproj
+		SccProjectTopLevelParentUniqueName13 = Roslyn.Visug.sln
+		SccProjectName13 = Roslyn.Visug.Scripting.Expression.Wcf.Host
+		SccLocalPath13 = Roslyn.Visug.Scripting.Expression.Wcf.Host
+		SccProjectUniqueName14 = Roslyn.Visug.Scripting.Expression.Wcf.Contract\\Roslyn.Visug.Scripting.Expression.Wcf.Contract.csproj
+		SccProjectTopLevelParentUniqueName14 = Roslyn.Visug.sln
+		SccProjectName14 = Roslyn.Visug.Scripting.Expression.Wcf.Contract
+		SccLocalPath14 = Roslyn.Visug.Scripting.Expression.Wcf.Contract
+		SccProjectUniqueName15 = Roslyn.Visug.Scripting.Expression.Wcf.Client\\Roslyn.Visug.Scripting.Expression.Wcf.Client.csproj
+		SccProjectTopLevelParentUniqueName15 = Roslyn.Visug.sln
+		SccProjectName15 = Roslyn.Visug.Scripting.Expression.Wcf.Client
+		SccLocalPath15 = Roslyn.Visug.Scripting.Expression.Wcf.Client
+		SccProjectUniqueName16 = Roslyn.Visug.NewCSharpFeatures.IndexInitializers\\Roslyn.Visug.NewCSharpFeatures.IndexInitializers.csproj
+		SccProjectTopLevelParentUniqueName16 = Roslyn.Visug.sln
+		SccProjectName16 = Roslyn.Visug.NewCSharpFeatures.IndexInitializers
+		SccLocalPath16 = Roslyn.Visug.NewCSharpFeatures.IndexInitializers
+		SccProjectUniqueName17 = Roslyn.Visug.CompilerAPI.SyntaxFactories\\Roslyn.Visug.CompilerAPI.SyntaxFactories.csproj
+		SccProjectTopLevelParentUniqueName17 = Roslyn.Visug.sln
+		SccProjectName17 = Roslyn.Visug.CompilerAPI.SyntaxFactories
+		SccLocalPath17 = Roslyn.Visug.CompilerAPI.SyntaxFactories
+		SccProjectUniqueName18 = Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal\\Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal.csproj
+		SccProjectTopLevelParentUniqueName18 = Roslyn.Visug.sln
+		SccProjectName18 = Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal
+		SccLocalPath18 = Roslyn.Visug.CompilerAPI.SyntaxTreeTraversal
+		SccProjectUniqueName19 = Roslyn.Visug.CompilerAPI.CompilationAPI\\Roslyn.Visug.CompilerAPI.CompilationAPI.csproj
+		SccProjectTopLevelParentUniqueName19 = Roslyn.Visug.sln
+		SccProjectName19 = Roslyn.Visug.CompilerAPI.CompilationAPI
+		SccLocalPath19 = Roslyn.Visug.CompilerAPI.CompilationAPI
+		SccProjectUniqueName20 = Roslyn.Visug.SampleApi\\Roslyn.Visug.SampleApi.csproj
+		SccProjectTopLevelParentUniqueName20 = Roslyn.Visug.sln
+		SccProjectName20 = Roslyn.Visug.SampleApi
+		SccLocalPath20 = Roslyn.Visug.SampleApi
+		SccProjectUniqueName21 = Roslyn.Visug.SampleApi.Consumer\\Roslyn.Visug.SampleApi.Consumer.csproj
+		SccProjectTopLevelParentUniqueName21 = Roslyn.Visug.sln
+		SccProjectName21 = Roslyn.Visug.SampleApi.Consumer
+		SccLocalPath21 = Roslyn.Visug.SampleApi.Consumer
+		SccProjectUniqueName22 = Roslyn.Visug.SampleApi.Analyzer\\Roslyn.Visug.SampleApi.Analyzer\\Roslyn.Visug.SampleApi.Analyzer.csproj
+		SccProjectTopLevelParentUniqueName22 = Roslyn.Visug.sln
+		SccProjectName22 = Roslyn.Visug.SampleApi.Analyzer/Roslyn.Visug.SampleApi.Analyzer
+		SccLocalPath22 = Roslyn.Visug.SampleApi.Analyzer\\Roslyn.Visug.SampleApi.Analyzer
+		SccProjectUniqueName23 = Roslyn.Visug.DiagnosticWithCodeFix.Test\\Roslyn.Visug.DiagnosticWithCodeFix.Test\\Roslyn.Visug.DiagnosticWithCodeFix.Test.csproj
+		SccProjectTopLevelParentUniqueName23 = Roslyn.Visug.sln
+		SccProjectName23 = Roslyn.Visug.DiagnosticWithCodeFix.Test/Roslyn.Visug.DiagnosticWithCodeFix.Test
+		SccLocalPath23 = Roslyn.Visug.DiagnosticWithCodeFix.Test\\Roslyn.Visug.DiagnosticWithCodeFix.Test
+		SccProjectUniqueName24 = Roslyn.Visug.DiagnosticWithCodeFix.Test\\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix.csproj
+		SccProjectTopLevelParentUniqueName24 = Roslyn.Visug.sln
+		SccProjectName24 = Roslyn.Visug.DiagnosticWithCodeFix.Test/Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix
+		SccLocalPath24 = Roslyn.Visug.DiagnosticWithCodeFix.Test\\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix
+		SccProjectUniqueName25 = Roslyn.Visug.CompilerApi.DataFlowAnalysis\\Roslyn.Visug.CompilerApi.DataFlowAnalysis.csproj
+		SccProjectTopLevelParentUniqueName25 = Roslyn.Visug.sln
+		SccProjectName25 = Roslyn.Visug.CompilerApi.DataFlowAnalysis
+		SccLocalPath25 = Roslyn.Visug.CompilerApi.DataFlowAnalysis
+		SccProjectUniqueName26 = Roslyn.Visug.CompilerApi.SymbolBinding\\Roslyn.Visug.CompilerApi.SymbolBinding.csproj
+		SccProjectTopLevelParentUniqueName26 = Roslyn.Visug.sln
+		SccProjectName26 = Roslyn.Visug.CompilerApi.SymbolBinding
+		SccLocalPath26 = Roslyn.Visug.CompilerApi.SymbolBinding
+		SccProjectUniqueName27 = Roslyn.Visug.CompilerApi.ControlFlowAnalysis\\Roslyn.Visug.CompilerApi.ControlFlowAnalysis.csproj
+		SccProjectTopLevelParentUniqueName27 = Roslyn.Visug.sln
+		SccProjectName27 = Roslyn.Visug.CompilerApi.ControlFlowAnalysis
+		SccLocalPath27 = Roslyn.Visug.CompilerApi.ControlFlowAnalysis
+		SccProjectUniqueName28 = Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment\\Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment.csproj
+		SccProjectTopLevelParentUniqueName28 = Roslyn.Visug.sln
+		SccProjectName28 = Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment
+		SccLocalPath28 = Roslyn.Visug.NewCSharpFeatures.ReadOnlyAssignment
+		SccProjectUniqueName29 = Roslyn.Visug.CompilerApi.SymbolConstantValue\\Roslyn.Visug.CompilerApi.SymbolConstantValue.csproj
+		SccProjectTopLevelParentUniqueName29 = Roslyn.Visug.sln
+		SccProjectName29 = Roslyn.Visug.CompilerApi.SymbolConstantValue
+		SccLocalPath29 = Roslyn.Visug.CompilerApi.SymbolConstantValue
+	EndGlobalSection
+EndGlobal

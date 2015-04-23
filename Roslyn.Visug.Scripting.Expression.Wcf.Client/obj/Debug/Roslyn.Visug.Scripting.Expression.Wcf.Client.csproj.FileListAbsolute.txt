@@ -1,0 +1,8 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\bin\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\bin\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\bin\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\bin\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Contract.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\bin\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Contract.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\obj\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\obj\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Client\obj\Debug\Roslyn.Visug.Scripting.Expression.Wcf.Client.pdb

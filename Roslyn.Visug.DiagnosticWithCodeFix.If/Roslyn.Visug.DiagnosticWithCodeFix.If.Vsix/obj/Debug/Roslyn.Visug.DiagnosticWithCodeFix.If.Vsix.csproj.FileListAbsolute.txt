@@ -1,0 +1,11 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\Diagnostic.nuspec
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\tools\install.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\tools\uninstall.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.vsix
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\extension.vsixmanifest
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.If.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.If\Roslyn.Visug.DiagnosticWithCodeFix.If.Vsix\obj\Debug\extension.vsixmanifest

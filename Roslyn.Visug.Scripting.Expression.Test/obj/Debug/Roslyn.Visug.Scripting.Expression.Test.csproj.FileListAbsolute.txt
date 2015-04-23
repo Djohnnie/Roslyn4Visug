@@ -1,0 +1,13 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Roslyn.Visug.Scripting.Expression.Test.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Roslyn.Visug.Scripting.Expression.Test.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Roslyn.Visug.Scripting.Expression.Core.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Microsoft.CodeAnalysis.Scripting.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\System.Reflection.Metadata.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Microsoft.CodeAnalysis.Desktop.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\bin\Debug\Roslyn.Visug.Scripting.Expression.Core.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\obj\Debug\Roslyn.Visug.Scripting.Expression.Test.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\obj\Debug\Roslyn.Visug.Scripting.Expression.Test.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Test\obj\Debug\Roslyn.Visug.Scripting.Expression.Test.pdb

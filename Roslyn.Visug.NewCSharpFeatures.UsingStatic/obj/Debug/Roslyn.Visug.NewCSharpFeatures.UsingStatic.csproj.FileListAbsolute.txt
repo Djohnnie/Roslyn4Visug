@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.UsingStatic\bin\Debug\Roslyn.Visug.NewCSharpFeatures.UsingStatic.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.UsingStatic\bin\Debug\Roslyn.Visug.NewCSharpFeatures.UsingStatic.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.UsingStatic\bin\Debug\Roslyn.Visug.NewCSharpFeatures.UsingStatic.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.UsingStatic\obj\Debug\Roslyn.Visug.NewCSharpFeatures.UsingStatic.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.UsingStatic\obj\Debug\Roslyn.Visug.NewCSharpFeatures.UsingStatic.pdb

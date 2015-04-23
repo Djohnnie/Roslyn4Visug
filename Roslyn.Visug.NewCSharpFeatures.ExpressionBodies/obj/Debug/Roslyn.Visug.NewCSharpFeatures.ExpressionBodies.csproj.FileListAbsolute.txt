@@ -1,0 +1,6 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\bin\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\obj\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\obj\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies\obj\Debug\Roslyn.Visug.NewCSharpFeatures.ExpressionBodies.pdb

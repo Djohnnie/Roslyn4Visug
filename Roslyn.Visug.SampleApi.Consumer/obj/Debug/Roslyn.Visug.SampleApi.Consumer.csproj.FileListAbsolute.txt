@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Consumer\bin\Debug\Roslyn.Visug.SampleApi.Consumer.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Consumer\bin\Debug\Roslyn.Visug.SampleApi.Consumer.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Consumer\bin\Debug\Roslyn.Visug.SampleApi.Consumer.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Consumer\obj\Debug\Roslyn.Visug.SampleApi.Consumer.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.SampleApi.Consumer\obj\Debug\Roslyn.Visug.SampleApi.Consumer.pdb

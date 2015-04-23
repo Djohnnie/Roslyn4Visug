@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\bin\Debug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\bin\Debug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\bin\Debug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\obj\Debug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers\obj\Debug\Roslyn.Visug.NewCSharpFeatures.PropertyInitializers.pdb

@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation\bin\Debug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation\bin\Debug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation\bin\Debug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation\obj\Debug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation\obj\Debug\Roslyn.Visug.NewCSharpFeatures.StringInterpolation.pdb

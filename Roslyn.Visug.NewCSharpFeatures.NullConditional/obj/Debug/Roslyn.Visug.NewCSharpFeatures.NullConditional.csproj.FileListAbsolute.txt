@@ -1,0 +1,5 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NullConditional\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NullConditional.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NullConditional\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NullConditional.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NullConditional\bin\Debug\Roslyn.Visug.NewCSharpFeatures.NullConditional.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NullConditional\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NullConditional.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.NewCSharpFeatures.NullConditional\obj\Debug\Roslyn.Visug.NewCSharpFeatures.NullConditional.pdb

@@ -1,0 +1,11 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\Diagnostic.nuspec
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\tools\install.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\tools\uninstall.ps1
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.vsix
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\extension.vsixmanifest
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\bin\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\obj\Debug\Roslyn.Visug.DiagnosticWithCodeFix.Test.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.DiagnosticWithCodeFix.Test\Roslyn.Visug.DiagnosticWithCodeFix.Test.Vsix\obj\Debug\extension.vsixmanifest

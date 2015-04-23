@@ -1,0 +1,16 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Roslyn.Visug.Scripting.Expression.Wcf.Host.dll.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Roslyn.Visug.Scripting.Expression.Wcf.Host.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Roslyn.Visug.Scripting.Expression.Wcf.Host.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Roslyn.Visug.Scripting.Expression.Wcf.Contract.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Roslyn.Visug.Scripting.Expression.Wcf.Contract.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Host.csprojResolveAssemblyReference.cache
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Host.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\obj\Release\Roslyn.Visug.Scripting.Expression.Wcf.Host.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.CSharp.Desktop.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.Desktop.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.Scripting.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\System.Reflection.Metadata.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Expression.Wcf.Host\bin\System.Collections.Immutable.dll

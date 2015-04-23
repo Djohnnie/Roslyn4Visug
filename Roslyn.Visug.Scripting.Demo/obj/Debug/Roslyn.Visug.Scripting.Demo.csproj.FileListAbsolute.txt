@@ -1,0 +1,12 @@
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Roslyn.Visug.Scripting.Demo.exe.config
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Roslyn.Visug.Scripting.Demo.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Roslyn.Visug.Scripting.Demo.pdb
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.CSharp.Desktop.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.Desktop.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.Scripting.CSharp.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\bin\Debug\System.Reflection.Metadata.dll
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\obj\Debug\Roslyn.Visug.Scripting.Demo.exe
+C:\djohnnie.visualstudio.com\ROSLYN\Demos\Main\Roslyn.Visug\Roslyn.Visug.Scripting.Demo\obj\Debug\Roslyn.Visug.Scripting.Demo.pdb
